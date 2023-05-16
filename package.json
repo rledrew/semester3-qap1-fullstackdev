@@ -1,0 +1,19 @@
+{
+  "name": "semester3-qap1-fullstackdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rledrewkeyin/semester3-qap1-fullstackdev.git"
+  },
+  "author": "Riley LeDrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rledrewkeyin/semester3-qap1-fullstackdev/issues"
+  },
+  "homepage": "https://github.com/rledrewkeyin/semester3-qap1-fullstackdev#readme"
+}
