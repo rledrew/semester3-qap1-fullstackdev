@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rledrewkeyin/semester3-qap1-fullstackdev/issues"
   },
-  "homepage": "https://github.com/rledrewkeyin/semester3-qap1-fullstackdev#readme"
+  "homepage": "https://github.com/rledrewkeyin/semester3-qap1-fullstackdev#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
 }
